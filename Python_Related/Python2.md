@@ -1,4 +1,4 @@
-# (LINUX)
+# LINUX
 ## Installing Python 2 
 ```
 wget https://www.python.org/ftp/python/2.7.18/Python-2.7.18.tgz
@@ -13,7 +13,7 @@ rm -r Python-2.7.18
 rm Python-2.7.18.tgz
 ```
 
-### Testing Pythin 2
+### Testing Python 2
 ```
 python2.7 --version
 python2.7
