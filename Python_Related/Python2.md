@@ -1,3 +1,7 @@
+# Windows
+There is a MSI installer for Windows
+https://www.python.org/ftp/python/2.7.18/python-2.7.18.amd64.msi
+
 # LINUX
 ## Installing Python 2 
 ```
